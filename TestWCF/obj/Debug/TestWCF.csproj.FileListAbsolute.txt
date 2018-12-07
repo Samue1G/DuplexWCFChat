@@ -1,0 +1,7 @@
+D:\Trash\TestWCF\TestWCF\bin\Debug\TestWCF.exe.config
+D:\Trash\TestWCF\TestWCF\bin\Debug\TestWCF.exe
+D:\Trash\TestWCF\TestWCF\bin\Debug\TestWCF.pdb
+D:\Trash\TestWCF\TestWCF\obj\Debug\TestWCF.csprojAssemblyReference.cache
+D:\Trash\TestWCF\TestWCF\obj\Debug\TestWCF.csproj.CoreCompileInputs.cache
+D:\Trash\TestWCF\TestWCF\obj\Debug\TestWCF.exe
+D:\Trash\TestWCF\TestWCF\obj\Debug\TestWCF.pdb
